@@ -9,7 +9,7 @@
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
-        "value":"SHABAN-MD~uMVUwIjI#jKpiethVDp3vo7Io0-5DDNDUCVKrqxIppKeIz8HeXtk",
+        "SHABAN-MD~CM1VkQ7D#XcXZlOuRV7UAi3PR36LUvrQ3NFJAuxZ26CDzub_9EwQ",
         "required": true
         
       },
@@ -100,7 +100,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255758575032"
+      "value": "255652398614"
 
     }, 
 
